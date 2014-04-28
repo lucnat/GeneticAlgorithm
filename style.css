@@ -1,0 +1,30 @@
+body{
+	text-align: center;
+}
+button {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #0a5d91);
+  background-image: -moz-linear-gradient(top, #3498db, #0a5d91);
+  background-image: -ms-linear-gradient(top, #3498db, #0a5d91);
+  background-image: -o-linear-gradient(top, #3498db, #0a5d91);
+  background-image: linear-gradient(to bottom, #3498db, #0a5d91);
+  -webkit-border-radius: 32;
+  -moz-border-radius: 32;
+  border-radius: 32px;
+  text-shadow: 3px 1px 3px #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 31px;
+  padding: 20px 30px 20px 30px;
+  text-decoration: none;
+}
+
+button {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
