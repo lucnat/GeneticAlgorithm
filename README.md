@@ -6,6 +6,6 @@ To use it as a template for your own genetic algorithm, simply edit the individu
 
 The idea is then to visualize the genetic algorithm within a canvas window, as shown in this example:
 
-ttps://dl.dropboxusercontent.com/u/12411648/floatingGenes/index.html
+https://dl.dropboxusercontent.com/u/12411648/floatingGenes/index.html
 
 In this plot, the red bars shows the genes of the individual fitting best to the green genes, which are the "solution" genes.
